@@ -12,11 +12,13 @@
                 "2026-07-14": [
                     {
                         "text": "working",
-                        "done": false
+                        "done": false,
+                        "duration_seconds": 40
                     },
                     {
                         "text": "eating",
-                        "done": true
+                        "done": false,
+                        "duration_seconds": 5
                     }
                 ]
             }
